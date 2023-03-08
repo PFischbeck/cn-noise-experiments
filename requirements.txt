@@ -1,0 +1,4 @@
+networkit==10.0
+scikit-learn==1.0.2
+python-igraph==0.10.4
+pandas==1.5.3
